@@ -238,7 +238,7 @@
     #t_1_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.5 Relaciones de dominación
 
-    p.mb-5 La globalización y la especialización productiva no solo han transformado los modelos económicos, sino que también han configurado formas complejas de dominación que atraviesan los territorios y sus comunidades. Estas relaciones de poder operan en múltiples planos (económico, cultural, epistémico, étnico y de género) profundizando desigualdades históricas y afectando la autonomía y dignidad de los pueblos. Las características de las relaciones de dominación son: 
+    p.mb-5 La globalización y la especialización productiva no solo han transformado los modelos económicos, sino que también han configurado formas complejas de dominación que atraviesan los territorios y sus comunidades. Estas relaciones de poder operan en múltiples planos (económico, cultural, epistémico, étnico y de género), profundizando desigualdades históricas y afectando la autonomía y dignidad de los pueblos. Las características de las relaciones de dominación son: 
 
     <!-- SLYDER IMAGENES -->
     .fondo___slider.mb-5

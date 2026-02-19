@@ -20,7 +20,7 @@ export default {
       tema: 'Fundamentos Productivos',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar y reforzar el conocimiento adquirido sobre Fundamentos socioeconómicos para la transición',
+        '<b> Objetivo:</b> evaluar y reforzar el conocimiento adquirido sobre Fundamentos socioeconómicos para la transición.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

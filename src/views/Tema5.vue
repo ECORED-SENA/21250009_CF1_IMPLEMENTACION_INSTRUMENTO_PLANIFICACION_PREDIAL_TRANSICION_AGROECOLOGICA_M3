@@ -20,7 +20,7 @@
         .row.justify-content-center.mb-5
           .col-xl-8
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
-              h5 Figura 2.
+              h5 Figura 3.
               span Factores clave para el escalamiento territorial de la agroecología
             figure.mb-2(data-aos="zoom-in")
               img(src='@/assets/curso/temas/img82.svg', alt='Ilustración sobre el escalamiento territorial de la agroecología, con ocho ejes principales: organización social, aprendizaje constructivista, reconocimiento de la crisis, discursos movilizadores, alianzas externas, mercados y políticas favorables, y búsqueda de alternativas. ').m-auto
