@@ -170,7 +170,7 @@
         #t_1_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 1.4 Pérdida de memoria biocultural
 
-    p.mb-5 La expansión de la economía globalizada y la imposición de monocultivos han generado una profunda #[b amnesia biocultural] en los territorios. Este fenómeno implica la erosión simultánea de la #[b agrobiodiversidad], los #[b saberes tradicionales], las p#[b rácticas agrícolas ancestrales] y las formas simbólicas y espirituales de relacionarse con la naturaleza que han sostenido la vida comunitaria por generaciones. Las características de la pérdida de memoria biocultural son: 
+    p.mb-5 La expansión de la economía globalizada y la imposición de monocultivos han generado una profunda #[b amnesia biocultural] en los territorios. Este fenómeno implica la erosión simultánea de la #[b agrobiodiversidad], los #[b saberes tradicionales], las #[b prácticas agrícolas ancestrales] y las formas simbólicas y espirituales de relacionarse con la naturaleza que han sostenido la vida comunitaria por generaciones. Las características de la pérdida de memoria biocultural son: 
 
     <!-- SLYDER IMAGENES -->
     .fondo___slider.mb-0
